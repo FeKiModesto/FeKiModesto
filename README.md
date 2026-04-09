@@ -41,11 +41,12 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FeKiModesto&show_icons=true&theme=dark" />
+  <img src="https://img.shields.io/github/followers/FeKiModesto?label=👥 Seguidores&style=for-the-badge&color=0a66c2" />
+  <img src="https://img.shields.io/github/stars/FeKiModesto?label=⭐ Estrelas&style=for-the-badge&color=ffb400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeKiModesto&layout=compact&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=FeKiModesto&label=👁️ Visualizações&style=for-the-badge&color=green" />
 </p>
 
 ---
