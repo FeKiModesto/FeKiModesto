@@ -60,4 +60,4 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=%23AlwaysLearning;%23BackEndJourney;%23GameDevFuture" />
-</p>
+</p>  
