@@ -18,12 +18,12 @@
 
 ## Onde me encontrar
 
-- [fekimodesto04@gmail.com](mailto:fekimodesto04@gmail.com)
-- [GitHub: FeKiModesto](https://github.com/FeKiModesto)
-- [LinkedIn: Felipe Modesto](https://www.linkedin.com/in/felipe-modesto-348986366/)
+- fekimodesto04@gmail.com
+- GitHub: FeKiModesto
+- LinkedIn: Felipe Modesto
 
 ---
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=%23AlwaysLearning;%23BackEndJourney;%23GameDevFuture)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=%23AlwaysLearning;%23BackEndJourney;%23GameDevFuture" />
 </p>
