@@ -31,6 +31,25 @@
 
 ---
 
+## 📊 Minha Atividade Recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FeKiModesto&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeKiModesto&layout=compact&theme=radical" />
+</p>
+
+---
+
 ## Onde me encontrar
 
 - [fekimodesto04@gmail.com](mailto:fekimodesto04@gmail.com)
