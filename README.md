@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=FFA500&vCenter=true&width=600&lines=%F0%9F%91%8B+Meu+nome+%C3%A9+Felipe+Kirschner+Modesto;%F0%9F%9A%80+Sou+Desenvolvedor+Back-End;%F0%9F%8E%93+Estudante+de+ADS+na+FIAP;%F0%9F%93%8D+Tenho+19+anos+e+sou+de+S%C3%A3o+Paulo)](https://git.io/typing-svg)
 
-**Pronomes:** ele/dele
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=200&lines=ele%2Fdele" />
+</p>
 
 ---
 
@@ -31,20 +33,10 @@
 
 ---
 
-## 📊 Linguagens que mais uso
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeKiModesto&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 📁 Meu último repositório
 
 <p align="center">
-  <a href="https://github.com/FeKiModesto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeKiModesto&repo=FeKiModesto&theme=radical" />
-  </a>
+  <img src="https://recent-repo-2.vercel.app/api/repo?username=FeKiModesto&pos=0" height="150" width="450" />
 </p>
 
 ---
