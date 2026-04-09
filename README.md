@@ -1,8 +1,6 @@
-# 🎮 Olá! Eu sou o Felipe Kirschner Modesto
+# 🎮 Olá! Seja bem-vindo(a) ao meu perfil!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=FFA500&vCenter=true&width=500&lines=%F0%9F%9A%80+Desenvolvedor+Back-End;%F0%9F%8E%93+Estudante+de+ADS+na+FIAP;%F0%9F%8E%AE+Apaixonado+por+Jogos+e+C%C3%B3digo)](https://git.io/typing-svg)
-
-📍 São Paulo, SP | 🎲 19 anos
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=FFA500&vCenter=true&width=600&lines=%F0%9F%91%8B+Meu+nome+%C3%A9+Felipe+Kirschner+Modesto;%F0%9F%9A%80+Sou+Desenvolvedor+Back-End;%F0%9F%8E%93+Estudante+de+ADS+na+FIAP;%F0%9F%8E%AE+Apaixonado+por+Jogos+e+C%C3%B3digo;%F0%9F%93%8D+Tenho+19+anos+e+sou+de+S%C3%A3o+Paulo)](https://git.io/typing-svg)
 
 **Pronomes:** ele/dele
 
@@ -13,8 +11,8 @@
 - 🎮 Amo videogame desde que me entendo por gente
 - 💻 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na FIAP
 - 🎓 Futuramente quero cursar **Design de Jogos**
-- ☕ Funciono à base de café e código
-- 🐛 Debuggar é minha terapia (quando funciona)
+- ☕ Funciono à base de café
+- 🎵 Amo escutar música e tenho um gosto bem eclético
 
 ---
 
