@@ -1,12 +1,6 @@
 # 🎮 Olá! Eu sou o Felipe Kirschner Modesto
 
-<img src="https://media3.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="60" align="right" />
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=FFA500&vCenter=true&width=500&lines=🚀+Desenvolvedor+Back-End;🎓+Estudante+de+ADS+na+FIAP;🎮+Apaixonado+por+Jogos+e+C%C3%B3digo" />
-</p>
-
-📍 São Paulo, SP | 🕹️ 19 anos
+**🚀 Desenvolvedor Back-End** | 📍 São Paulo, SP | 🎲 19 anos
 
 **Pronomes:** ele/dele
 
@@ -31,5 +25,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=%23AlwaysLearning;%23BackEndJourney;%23GameDevFuture" />
+  <i>#AlwaysLearning  #BackEndJourney  #GameDevFuture</i>
 </p>
