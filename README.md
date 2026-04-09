@@ -9,14 +9,14 @@
 ## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
 </p>
 
 ---
@@ -24,18 +24,34 @@
 ## Sobre mim
 
 - 🎮 Amo videogame desde que me entendo por gente
-- 💻 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na FIAP
+- 💻 Cursando **Análise e Desenvolvimento de Sistemas** na FIAP
 - 🎓 Futuramente quero cursar **Design de Jogos**
 - ☕ Funciono à base de café
 - 🎵 Amo escutar música e tenho um gosto bem eclético
 
 ---
 
+## 📊 Linguagens que mais uso
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeKiModesto&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📁 Meu último repositório
+
+<p align="center">
+  <img src="https://recent-repo-2.vercel.app/api/repo?username=FeKiModesto&pos=0" height="150" width="450" />
+</p>
+
+---
+
 ## Onde me encontrar
 
-- [fekimodesto04@gmail.com](mailto:fekimodesto04@gmail.com)
-- [GitHub: FeKiModesto](https://github.com/FeKiModesto)
-- [LinkedIn: Felipe Modesto](https://www.linkedin.com/in/felipe-modesto-348986366/)
+- 📧 [fekimodesto04@gmail.com](mailto:fekimodesto04@gmail.com)
+- 🧑‍💻 [GitHub: FeKiModesto](https://github.com/FeKiModesto)
+- 🔗 [LinkedIn: Felipe Modesto](https://www.linkedin.com/in/felipe-modesto-348986366/)
 
 ---
 
