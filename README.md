@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=FFA500&vCenter=true&width=600&lines=%F0%9F%91%8B+Meu+nome+%C3%A9+Felipe+Kirschner+Modesto;%F0%9F%9A%80+Sou+Desenvolvedor+Back-End;%F0%9F%8E%93+Estudante+de+ADS+na+FIAP;%F0%9F%93%8D+Tenho+19+anos+e+sou+de+S%C3%A3o+Paulo)](https://git.io/typing-svg)
 
-**Pronome:** <img src="https://img.shields.io/badge/ele%2Fdele-FF69B4?style=flat-square" />
+**Pronomes:** ele/dele
 
 ---
 
