@@ -41,11 +41,11 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FeKiModesto&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FeKiModesto&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeKiModesto&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeKiModesto&layout=compact&theme=radical" />
 </p>
 
 ---
