@@ -42,7 +42,9 @@
 ## 📁 Meu último repositório
 
 <p align="center">
-  <img src="https://recent-repo-2.vercel.app/api/repo?username=FeKiModesto&pos=0&commits=false" height="120" width="450" />
+  <a href="https://github.com/FeKiModesto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeKiModesto&repo=FeKiModesto&theme=radical" />
+  </a>
 </p>
 
 ---
