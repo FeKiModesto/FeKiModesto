@@ -1,18 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=800&color=FFA500&center=true&vCenter=true&width=700&lines=Olá!+Seja+bem-vindo(a)+ao+meu+perfil!" />
-</p>
+# Olá! Seja bem-vindo(a) ao meu perfil!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=FFA500&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Meu+nome+%C3%A9+Felipe+Kirschner+Modesto;%F0%9F%9A%80+Sou+Desenvolvedor+Back-End;%F0%9F%8E%93+Estudante+de+ADS+na+FIAP;%F0%9F%93%8D+Tenho+19+anos+e+sou+de+S%C3%A3o+Paulo" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=FFA500&vCenter=true&width=600&lines=%F0%9F%91%8B+Meu+nome+%C3%A9+Felipe+Kirschner+Modesto;%F0%9F%9A%80+Sou+Desenvolvedor+Back-End;%F0%9F%8E%93+Estudante+de+ADS+na+FIAP;%F0%9F%93%8D+Tenho+19+anos+e+sou+de+S%C3%A3o+Paulo)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1000&pause=100&color=FF69B4&center=true&vCenter=true&width=300&lines=Pronome:+ele%2Fdele" />
-</p>
+**Pronome:** <span style="color:#FF69B4">ele/dele</span>
 
 ---
 
-<p align="center">
+## 🛠️ Linguagens e Tecnologias
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
@@ -25,19 +21,17 @@
 
 ---
 
-<p align="center">
-  <b>Sobre mim</b>
-</p>
+## Sobre mim
 
-<p align="center">
-  🎮 Amo videogame desde que me entendo por gente<br />
-  💻 Cursando <b>Análise e Desenvolvimento de Sistemas</b> na FIAP<br />
-  🎓 Futuramente quero cursar <b>Design de Jogos</b><br />
-  ☕ Funciono à base de café<br />
-  🎵 Amo escutar música e tenho um gosto bem eclético
-</p>
+- 🎮 Amo videogame desde que me entendo por gente
+- 💻 Cursando **Análise e Desenvolvimento de Sistemas** na FIAP
+- 🎓 Futuramente quero cursar **Design de Jogos**
+- ☕ Funciono à base de café
+- 🎵 Amo escutar música e tenho um gosto bem eclético
 
 ---
+
+## 📁 Meu último repositório
 
 <p align="center">
   <img src="https://recent-repo-2.vercel.app/api/repo?username=FeKiModesto&pos=0" height="150" width="450" />
@@ -45,15 +39,11 @@
 
 ---
 
-<p align="center">
-  <b>Onde me encontrar</b>
-</p>
+## Onde me encontrar
 
-<p align="center">
-  📧 <a href="mailto:fekimodesto04@gmail.com">fekimodesto04@gmail.com</a><br />
-  🧑‍💻 <a href="https://github.com/FeKiModesto">GitHub: FeKiModesto</a><br />
-  🔗 <a href="https://www.linkedin.com/in/felipe-modesto-348986366/">LinkedIn: Felipe Modesto</a>
-</p>
+- 📧 [fekimodesto04@gmail.com](mailto:fekimodesto04@gmail.com)
+- 🧑‍💻 [GitHub: FeKiModesto](https://github.com/FeKiModesto)
+- 🔗 [LinkedIn: Felipe Modesto](https://www.linkedin.com/in/felipe-modesto-348986366/)
 
 ---
 
