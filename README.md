@@ -21,19 +21,10 @@
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🧠 Linguagens mais usadas
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=FeKiModesto&show_icons=true&theme=dracula" width="450" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeKiModesto&layout=compact&theme=dracula" width="450" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeKiModesto&layout=donut&theme=dracula" width="450" />
 </p>
 
 ---
