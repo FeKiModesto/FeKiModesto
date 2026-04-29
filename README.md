@@ -21,6 +21,14 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FeKiModesto&show_icons=true&theme=dracula&hide_title=false&hide_rank=false" width="450" />
+</p>
+
+---
+
 ## Sobre mim
 
 - 🎮 Amo videogame desde que me entendo por gente
