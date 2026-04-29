@@ -21,10 +21,19 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FeKiModesto&show_icons=true&theme=dracula&hide_title=false&hide_rank=false" width="450" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=FeKiModesto&show_icons=true&theme=dracula" width="450" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeKiModesto&layout=compact&theme=dracula" width="450" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
