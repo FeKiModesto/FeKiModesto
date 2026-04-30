@@ -16,17 +16,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Pac-Man Animation
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: FeKiModesto
-          inputs: |
-            .github/snk-assets/pacman.svg?color_snake=pacman
-            .github/snk-assets/ghost.svg?color_ghost=ghost
-            .github/snk-assets/fruit.svg?color_fruit=fruit
           outputs: |
-            dist/pacman.svg
-            dist/pacman-dark.svg?palette=github-dark
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Convert Snake to Pac-Man (substitui imagens)
+        run: |
+          # Substitui a cobrinha pelo Pac-Man nos SVGs gerados
+          sed -i 's/snake/pacman/g' dist/*.svg
+          sed -i 's/Snake/PacMan/g' dist/*.svg
+          
+          # Renomeia os arquivos
+          mv dist/snake.svg dist/pacman.svg 2>/dev/null || true
+          mv dist/snake-dark.svg dist/pacman-dark.svg 2>/dev/null || true
 
       - name: Commit and Push
         run: |
