@@ -2,8 +2,14 @@ name: Generate Pac-Man Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Roda todo dia à meia-noite
-  workflow_dispatch:     # Permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
@@ -11,7 +17,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -20,13 +26,11 @@ jobs:
           outputs: |
             dist/pacman.svg
             dist/pacman-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add dist/*.svg
-          git commit -m "Atualizando animação Pac-Man" || echo "Nada para commitar"
-          git push origin main || echo "Nada para commitar"
+          git commit -m "feat: atualiza animação Pac-Man" || echo "Sem mudanças para commitar"
+          git push origin main || echo "Sem mudanças para commitar"
