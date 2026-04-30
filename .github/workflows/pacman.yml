@@ -8,9 +8,6 @@ on:
 permissions:
   contents: write
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,10 +16,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake Animation
+      - name: Generate Pac-Man Animation
         uses: Platane/snk@v3
         with:
           github_user_name: FeKiModesto
+          inputs: |
+            .github/snk-assets/pacman.svg?color_snake=pacman
+            .github/snk-assets/ghost.svg?color_ghost=ghost
+            .github/snk-assets/fruit.svg?color_fruit=fruit
           outputs: |
             dist/pacman.svg
             dist/pacman-dark.svg?palette=github-dark
