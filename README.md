@@ -16,6 +16,14 @@
 
 ---
 
+## 🟡 Minhas contribuições em modo Pac-Man
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FeKiModesto/FeKiModesto/main/dist/pacman-dark.svg" />
+</p>
+
+---
+
 ## 🛠️ Linguagens e Tecnologias
 
 <p align="center">
