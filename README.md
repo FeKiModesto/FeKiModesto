@@ -16,7 +16,7 @@
 
 ---
 
-## 🟡 Minhas contribuições em modo Pac-Man
+## 🟡 Minhas contribuições em modo Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FeKiModesto/FeKiModesto/output/pacman-dark.svg" />
