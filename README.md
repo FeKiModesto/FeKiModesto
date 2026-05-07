@@ -58,7 +58,7 @@
 ## 🔥 Consistência
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FeKiModesto&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=FeKiModesto&theme=tokyonight" />
 </p>
 
 ---
@@ -110,5 +110,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=4169E1&center=true&vCenter=true&width=700&lines=%23AlwaysLearning;%23FullStackDeveloper;%23BackEndFocus;%23GameDevFuture" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=4169E1&center=true&vCenter=true&width=700&lines=%23AlwaysLearning;%23FullStackDeveloper;%23BackEndFocus;%23GameDevFuture"/>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
 </p>
