@@ -1,4 +1,4 @@
-name: Generate Pac-Man Animation
+name: Generate GitHub Snake Animation
 
 on:
   schedule:
@@ -13,13 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pac-Man
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: FeKiModesto
           outputs: |
-            dist/pacman.svg?palette=github-dark&animation=pacman
-            dist/pacman-dark.svg?palette=github-dark&animation=pacman
+            dist/github-snake.svg?palette=github-dark&color_snake=#4169E1
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#4169E1
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
