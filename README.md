@@ -71,11 +71,18 @@
 
 ---
 
-## 📁 Repositório em destaque
+## 📈 Atividade no GitHub
 
 <p align="center">
-  <img src="https://recent-repo-2.vercel.app/api/repo?username=FeKiModesto&pos=0" height="150" width="450" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FeKiModesto&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+## 📁 Repositórios recentes
+
+<!-- START_REPOS -->
+<!-- END_REPOS -->
 
 ---
 
