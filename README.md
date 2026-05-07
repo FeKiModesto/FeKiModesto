@@ -16,10 +16,10 @@
 
 ---
 
-## 🟡 Minhas contribuições em modo Cobrinha
+## 🟡 Minhas contribuições em modo Pac-Man
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FeKiModesto/FeKiModesto/main/dist/pacman-dark.svg" />
+  <img src="https://raw.githubusercontent.com/FeKiModesto/FeKiModesto/output/pacman-dark.svg" />
 </p>
 
 ---
