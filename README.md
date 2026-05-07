@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=180&section=header&text=Felipe%20Kirschner%20Modesto&fontSize=32&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=200&section=header&text=Felipe%20Kirschner%20Modesto&fontSize=34&fontAlignY=38&animation=scaleIn&fontColor=ffffff"/>
 </p>
 
 # 👋 Olá! Seja bem-vindo(a) ao meu perfil!
@@ -40,25 +40,17 @@
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Node.js-2E8B57?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-4169E1?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-4169E1?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-4169E1?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
   <br/>
 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-4169E1?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-4169E1?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-4169E1?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-</p>
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeKiModesto&layout=donut&theme=dracula" width="450" />
 </p>
 
 ---
