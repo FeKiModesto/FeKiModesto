@@ -16,7 +16,7 @@
 
 ---
 
-## 🟡 Minhas contribuições em modo Pac-Man
+## 🟡 Minhas contribuições em modo Cobrinha
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FeKiModesto/FeKiModesto/main/dist/pacman-dark.svg" />
@@ -35,9 +35,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#"/>
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" title="Oracle Database"/>
 </p>
 
 ---
@@ -54,6 +56,14 @@
 
 <p align="center">
   <img src="https://recent-repo-2.vercel.app/api/repo?username=FeKiModesto&pos=0" height="150" width="450" />
+</p>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FeKiModesto&theme=dracula" />
 </p>
 
 ---
