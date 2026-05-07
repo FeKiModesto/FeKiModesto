@@ -82,6 +82,11 @@
 ## 📁 Repositórios recentes
 
 <!-- START_REPOS -->
+- 🔹 [FeKiModesto](https://github.com/FeKiModesto/FeKiModesto) — Sem descrição
+- 🔹 [Trabalhos_Java](https://github.com/FeKiModesto/Trabalhos_Java) — Um repositório voltado à postagem de atividades voltadas à matéria de Java.
+- 🔹 [Clyvo-Vet-IoT](https://github.com/FeKiModesto/Clyvo-Vet-IoT) — Projeto de IoT para monitoramento veterinário desenvolvido para o Challenge FIAP + Clyvo 2026.
+- 🔹 [Projeto-Devops-CP2](https://github.com/FeKiModesto/Projeto-Devops-CP2) — Repositório criado para o CP2 de DevOps.
+- 🔹 [Projetos-QA](https://github.com/FeKiModesto/Projetos-QA) — Repositório da disciplina de Quality Assurance (QA) da FIAP.
 <!-- END_REPOS -->
 
 ---
