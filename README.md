@@ -74,8 +74,8 @@
 ## 📁 Repositórios recentes
 
 <!-- START_REPOS -->
-- 🔹 [Trabalhos_Java](https://github.com/FeKiModesto/Trabalhos_Java) — Um repositório voltado à postagem de atividades voltadas à matéria de Java.
 - 🔹 [FeKiModesto](https://github.com/FeKiModesto/FeKiModesto) — README pessoal!
+- 🔹 [Trabalhos_Java](https://github.com/FeKiModesto/Trabalhos_Java) — Um repositório voltado à postagem de atividades voltadas à matéria de Java.
 - 🔹 [IoT-CP2-3](https://github.com/FeKiModesto/IoT-CP2-3) — Repositório dedicado ao CP2/3 do primeiro semestre - Disruptive Architectures IoT IOB e Generative IA
 - 🔹 [Clyvo-Vet-QA](https://github.com/FeKiModesto/Clyvo-Vet-QA) — Entregas da disciplina Compliance, Quality Assurance & Tests — Challenge FIAP 2026 | Clyvo VET
 - 🔹 [Clyvo-Vet-IoT](https://github.com/FeKiModesto/Clyvo-Vet-IoT) — Projeto de IoT para monitoramento veterinário desenvolvido para o Challenge FIAP + Clyvo 2026.
