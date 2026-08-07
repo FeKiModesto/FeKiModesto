@@ -74,11 +74,11 @@
 ## 📁 Repositórios recentes
 
 <!-- START_REPOS -->
+- 🔹 [Mini-Games](https://github.com/FeKiModesto/Mini-Games) — Um repositório apenas para brincar; criação de jogos pequenos.
+- 🔹 [Projeto-Devops-CP2](https://github.com/FeKiModesto/Projeto-Devops-CP2) — Repositório criado para o trabalho de DevOps: CP2 - 1º Semestre.
 - 🔹 [DevOps-Cloud_Computing](https://github.com/FeKiModesto/DevOps-Cloud_Computing) — Repositório focado para os materiais de aula de DevOps.
 - 🔹 [FeKiModesto](https://github.com/FeKiModesto/FeKiModesto) — README pessoal!
 - 🔹 [Clyvo-Vet-QA](https://github.com/FeKiModesto/Clyvo-Vet-QA) — Entregas da disciplina Compliance, Quality Assurance & Tests — Challenge FIAP 2026 | Clyvo VET
-- 🔹 [Clyvo-Vet-IoT](https://github.com/FeKiModesto/Clyvo-Vet-IoT) — Projeto de IoT para monitoramento veterinário desenvolvido para o Challenge FIAP + Clyvo 2026.
-- 🔹 [IoT-CP2-3](https://github.com/FeKiModesto/IoT-CP2-3) — Repositório dedicado ao CP2/3 do primeiro semestre - Disruptive Architectures IoT IOB e Generative IA
 <!-- END_REPOS -->
 
 ---
