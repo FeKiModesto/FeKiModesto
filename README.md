@@ -74,8 +74,8 @@
 ## 📁 Repositórios recentes
 
 <!-- START_REPOS -->
-- 🔹 [Trabalhos_Java](https://github.com/FeKiModesto/Trabalhos_Java) — Um repositório voltado à postagem de atividades voltadas à matéria de Java.
 - 🔹 [FeKiModesto](https://github.com/FeKiModesto/FeKiModesto) — README pessoal!
+- 🔹 [Trabalhos_Java](https://github.com/FeKiModesto/Trabalhos_Java) — Um repositório voltado à postagem de atividades voltadas à matéria de Java.
 - 🔹 [Mini-Games](https://github.com/FeKiModesto/Mini-Games) — Um repositório apenas para brincar / criação de jogos pequenos.
 - 🔹 [DevOps-Cloud_Computing](https://github.com/FeKiModesto/DevOps-Cloud_Computing) — Repositório focado para os materiais de aula de DevOps.
 - 🔹 [Projeto-Devops-CP2](https://github.com/FeKiModesto/Projeto-Devops-CP2) — Repositório criado para o trabalho de DevOps: CP2 - 1º Semestre.
