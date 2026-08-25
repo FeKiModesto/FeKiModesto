@@ -74,9 +74,9 @@
 ## 📁 Repositórios recentes
 
 <!-- START_REPOS -->
+- 🔹 [FeKiModesto](https://github.com/FeKiModesto/FeKiModesto) — README pessoal!
 - 🔹 [PET-FAMILY-IA](https://github.com/FeKiModesto/PET-FAMILY-IA) — Repositório criado para idealização do projeto oficial, de IoT, da organização PET FAMILY.
 - 🔹 [Trabalhos_Java](https://github.com/FeKiModesto/Trabalhos_Java) — Um repositório voltado à postagem de atividades voltadas à matéria de Java.
-- 🔹 [FeKiModesto](https://github.com/FeKiModesto/FeKiModesto) — README pessoal!
 - 🔹 [Mini-Games](https://github.com/FeKiModesto/Mini-Games) — Um repositório apenas para brincar / criação de jogos pequenos.
 - 🔹 [DevOps-Cloud_Computing](https://github.com/FeKiModesto/DevOps-Cloud_Computing) — Repositório focado para os materiais de aula de DevOps.
 <!-- END_REPOS -->
