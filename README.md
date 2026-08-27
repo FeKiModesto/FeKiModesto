@@ -74,11 +74,11 @@
 ## 📁 Repositórios recentes
 
 <!-- START_REPOS -->
-- 🔹 [DevOps-Cloud_Computing](https://github.com/FeKiModesto/DevOps-Cloud_Computing) — Repositório focado para os materiais de aula de DevOps.
 - 🔹 [Naike-Mobile](https://github.com/FeKiModesto/Naike-Mobile) — Repositório voltado à criação do projeto Loja Naike da matéria de Mobile.
-- 🔹 [FeKiModesto](https://github.com/FeKiModesto/FeKiModesto) — README pessoal!
-- 🔹 [PET-FAMILY-IA](https://github.com/FeKiModesto/PET-FAMILY-IA) — Repositório criado para idealização do projeto oficial, de IoT, da organização PET FAMILY.
 - 🔹 [Trabalhos_Java](https://github.com/FeKiModesto/Trabalhos_Java) — Um repositório voltado à postagem de atividades voltadas à matéria de Java.
+- 🔹 [FeKiModesto](https://github.com/FeKiModesto/FeKiModesto) — README pessoal!
+- 🔹 [DevOps-Cloud_Computing](https://github.com/FeKiModesto/DevOps-Cloud_Computing) — Repositório focado para os materiais de aula de DevOps.
+- 🔹 [PET-FAMILY-IA](https://github.com/FeKiModesto/PET-FAMILY-IA) — Repositório criado para idealização do projeto oficial, de IoT, da organização PET FAMILY.
 <!-- END_REPOS -->
 
 ---
