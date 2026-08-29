@@ -74,8 +74,8 @@
 ## 📁 Repositórios recentes
 
 <!-- START_REPOS -->
-- 🔹 [Projeto-QA](https://github.com/FeKiModesto/Projeto-QA) — Repositório da disciplina de Quality Assurance (QA) da FIAP.
 - 🔹 [FeKiModesto](https://github.com/FeKiModesto/FeKiModesto) — README pessoal!
+- 🔹 [Projeto-QA](https://github.com/FeKiModesto/Projeto-QA) — Repositório da disciplina de Quality Assurance (QA) da FIAP.
 - 🔹 [Naike-Mobile](https://github.com/FeKiModesto/Naike-Mobile) — Repositório voltado à criação do projeto Loja Naike da matéria de Mobile.
 - 🔹 [Trabalhos_Java](https://github.com/FeKiModesto/Trabalhos_Java) — Um repositório voltado à postagem de atividades voltadas à matéria de Java.
 - 🔹 [DevOps-Cloud_Computing](https://github.com/FeKiModesto/DevOps-Cloud_Computing) — Repositório focado para os materiais de aula de DevOps.
