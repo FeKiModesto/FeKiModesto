@@ -74,10 +74,10 @@
 ## 📁 Repositórios recentes
 
 <!-- START_REPOS -->
+- 🔹 [Naike-Mobile](https://github.com/FeKiModesto/Naike-Mobile) — Repositório voltado à criação do projeto Loja Naike da matéria de Mobile.
 - 🔹 [FeKiModesto](https://github.com/FeKiModesto/FeKiModesto) — README pessoal!
 - 🔹 [DevOps-Cloud_Computing](https://github.com/FeKiModesto/DevOps-Cloud_Computing) — Repositório focado para os materiais de aula de DevOps.
 - 🔹 [Trabalhos_Java](https://github.com/FeKiModesto/Trabalhos_Java) — Um repositório voltado à postagem de atividades voltadas à matéria de Java.
-- 🔹 [Naike-Mobile](https://github.com/FeKiModesto/Naike-Mobile) — Repositório voltado à criação do projeto Loja Naike da matéria de Mobile.
 - 🔹 [Projeto-QA](https://github.com/FeKiModesto/Projeto-QA) — Repositório da disciplina de Quality Assurance (QA) da FIAP.
 <!-- END_REPOS -->
 
