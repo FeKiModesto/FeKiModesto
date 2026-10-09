@@ -74,8 +74,8 @@
 ## 📁 Repositórios recentes
 
 <!-- START_REPOS -->
-- 🔹 [IA-CPzao](https://github.com/FeKiModesto/IA-CPzao) — Repositório focado na produção da IA para o "CPzao" de IoT.
 - 🔹 [FeKiModesto](https://github.com/FeKiModesto/FeKiModesto) — README pessoal!
+- 🔹 [IA-CPzao](https://github.com/FeKiModesto/IA-CPzao) — Repositório focado na produção da IA para o "CPzao" de IoT.
 - 🔹 [Naike-Mobile](https://github.com/FeKiModesto/Naike-Mobile) — Repositório voltado à criação do projeto Loja Naike da matéria de Mobile.
 - 🔹 [Trabalhos_Java](https://github.com/FeKiModesto/Trabalhos_Java) — Um repositório voltado à postagem de atividades voltadas à matéria de Java.
 - 🔹 [DevOps-Cloud_Computing](https://github.com/FeKiModesto/DevOps-Cloud_Computing) — Repositório focado para os materiais de aula de DevOps.
